@@ -1,0 +1,6 @@
+{
+  'ImageRelativePath' : 'D:/dev/meishu/UI/uiproject/cn/Resources',
+  'UiJsonRelativePath' : 'D:/dev/meishu/UI/uiproject/cn/main',
+  'ParseToolRelativePath' : '../JsonToLuaUtil',
+  'ProjectUiLuaFileRelativePath' : 'D:/dev/pro/lua_code/lua__main/src/app/jsontolua'
+}

@@ -1,0 +1,10 @@
+D:\dev\pro\dealImageUtils\FindSpriteFrame\obj\Debug\FindSpriteFrame.csprojResolveAssemblyReference.cache
+D:\dev\pro\dealImageUtils\FindSpriteFrame\obj\Debug\FindSpriteFrame.FormFindSprite.resources
+D:\dev\pro\dealImageUtils\FindSpriteFrame\obj\Debug\FindSpriteFrame.Properties.Resources.resources
+D:\dev\pro\dealImageUtils\FindSpriteFrame\obj\Debug\FindSpriteFrame.csproj.GenerateResource.Cache
+D:\dev\pro\dealImageUtils\FindSpriteFrame\obj\Debug\FindSpriteFrame.csproj.CoreCompileInputs.cache
+D:\dev\pro\dealImageUtils\FindSpriteFrame\obj\Debug\FindSpriteFrame.exe
+D:\dev\pro\dealImageUtils\FindSpriteFrame\obj\Debug\FindSpriteFrame.pdb
+D:\dev\pro\dealImageUtils\FindSpriteFrame.exe.config
+D:\dev\pro\dealImageUtils\FindSpriteFrame.exe
+D:\dev\pro\dealImageUtils\FindSpriteFrame.pdb

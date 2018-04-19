@@ -1,0 +1,6 @@
+{
+  'ImageRelativePath' : '../lua_code/lua__main/res/ui',
+  'UiJsonRelativePath' : '../uiproject/cn/beta_cur/',
+  'ParseToolRelativePath' : '../JsonToLuaUtil/',
+  'ProjectUiLuaFileRelativePath' : '../lua__main/src/app/jsontolua'
+}
